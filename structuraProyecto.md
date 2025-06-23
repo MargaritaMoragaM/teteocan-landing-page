@@ -6,7 +6,7 @@ teteocan-landing-page/
 │   │   └── pagos.js
 │   └── server.js
 │
-├── public/                        ← todo lo que ve el usuario
+├── docs/                        ← todo lo que ve el usuario
 │   ├── index.html
 │   ├── styles.css
 │   ├── script.js
